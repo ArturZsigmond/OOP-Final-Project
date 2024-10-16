@@ -1,0 +1,3 @@
+sports,sports of quality
+racing,cars lot of speed wheels
+shooting,gun

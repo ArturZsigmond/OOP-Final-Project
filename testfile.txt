@@ -1,0 +1,5 @@
+Mario,mario@gmail.com,gaming,studying,bath,sports
+Maari,mario@gmail.com,gaming,studying,bath,sports
+Artur,arrr@.c,gun,gun,shooting
+A,a,car,nothing,sports
+h,d,d,
